@@ -1,0 +1,61 @@
+{
+  "name": "Ireland Jobs Dashboard",
+  "dataColors": [
+    "#4361EE",
+    "#3A0CA3",
+    "#F72585",
+    "#4CC9F0",
+    "#F9C74F",
+    "#90BE6D",
+    "#F94144",
+    "#577590",
+    "#7209B7",
+    "#480CA8"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1A1A2E",
+  "tableAccent": "#4361EE",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "general": [
+          {
+            "responsive": true
+          }
+        ],
+        "title": [
+          {
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold",
+            "fontColor": {
+              "solid": {
+                "color": "#1A1A2E"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "fontSize": 11,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontSize": 28,
+            "fontFamily": "Segoe UI Semibold",
+            "fontColor": {
+              "solid": {
+                "color": "#4361EE"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

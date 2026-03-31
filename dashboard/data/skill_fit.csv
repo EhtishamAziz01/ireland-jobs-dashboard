@@ -1,0 +1,132 @@
+skill_id,skill_name,skill_category,job_count,pct_of_jobs,avg_salary_for_skill,you_have,status
+24,sql,Programming,550,28.5,134334.0,Yes,✅ You Have
+27,excel,Tools,544,28.2,126188.0,Yes,✅ You Have
+4,reporting,BI_Analytics,464,24.0,133293.0,No,❌ Gap
+7,communication,Soft_Skills,439,22.7,124113.0,Yes,✅ You Have
+10,python,Programming,418,21.7,145505.0,Yes,✅ You Have
+29,scala,Programming,305,15.8,152272.0,No,❌ Gap
+12,machine learning,ML_AI,263,13.6,168165.0,Yes,✅ You Have
+6,cross-functional,Soft_Skills,260,13.5,145132.0,No,❌ Gap
+9,dashboard,BI_Analytics,257,13.3,131883.0,No,❌ Gap
+37,etl,Data Engineering,230,11.9,135792.0,Yes,✅ You Have
+39,data quality,Data_Analysis,221,11.5,135669.0,Yes,✅ You Have
+1,recommendation,ML_AI,200,10.4,147957.0,No,❌ Gap
+44,collaboration,Soft_Skills,198,10.3,145039.0,Yes,✅ You Have
+34,aws,Cloud,186,9.6,145651.0,No,❌ Gap
+19,data pipeline,Data Engineering,183,9.5,152318.0,Yes,✅ You Have
+42,azure,Cloud,176,9.1,149266.0,No,❌ Gap
+17,agile,Soft_Skills,171,8.9,135147.0,No,❌ Gap
+23,business intelligence,BI_Analytics,160,8.3,138499.0,No,❌ Gap
+3,data modeling,Data_Analysis,158,8.2,152521.0,No,❌ Gap
+20,data warehouse,Data Engineering,151,7.8,145147.0,No,❌ Gap
+40,spark,Data Engineering,146,7.6,136350.0,No,❌ Gap
+25,power bi,Visualization,137,7.1,137363.0,Yes,✅ You Have
+2,statistics,Data_Analysis,133,6.9,137699.0,No,❌ Gap
+26,tableau,Visualization,130,6.7,135502.0,No,❌ Gap
+45,java,Programming,125,6.5,132993.0,No,❌ Gap
+11,nifi,Data Engineering,120,6.2,153474.0,No,❌ Gap
+81,snowflake,Cloud,109,5.6,137143.0,No,❌ Gap
+5,presentation,Soft_Skills,109,5.6,120044.0,No,❌ Gap
+18,rust,Programming,103,5.3,133659.0,No,❌ Gap
+36,oracle,Databases,102,5.3,126985.0,No,❌ Gap
+41,databricks,Data Engineering,96,5.0,141755.0,No,❌ Gap
+61,sql server,Databases,90,4.7,146940.0,No,❌ Gap
+38,data lake,Data Engineering,83,4.3,163136.0,No,❌ Gap
+8,go,Programming,66,3.4,138714.0,No,❌ Gap
+70,ci/cd,Tools,59,3.1,190245.0,No,❌ Gap
+49,pyspark,Data Engineering,57,3.0,136800.0,No,❌ Gap
+87,segment,BI_Analytics,49,2.5,156544.0,No,❌ Gap
+13,deep learning,ML_AI,48,2.5,211260.0,No,❌ Gap
+93,linux,Tools,48,2.5,183625.0,No,❌ Gap
+50,gcp,Cloud,47,2.4,168462.0,Yes,✅ You Have
+78,postgres,Databases,47,2.4,205326.0,No,❌ Gap
+33,problem solving,Soft_Skills,45,2.3,118233.0,No,❌ Gap
+52,google cloud,Cloud,45,2.3,150895.0,Yes,✅ You Have
+28,powerbi,Visualization,45,2.3,114701.0,No,❌ Gap
+35,redshift,Cloud,44,2.3,238000.0,No,❌ Gap
+59,javascript,Programming,44,2.3,142986.0,No,❌ Gap
+15,nlp,ML_AI,41,2.1,155639.0,Yes,✅ You Have
+54,shell,Programming,40,2.1,189252.0,No,❌ Gap
+30,sas,Programming,39,2.0,102296.0,No,❌ Gap
+83,kubernetes,Tools,38,2.0,153918.0,No,❌ Gap
+48,airflow,Data Engineering,37,1.9,148848.0,No,❌ Gap
+22,generative ai,ML_AI,35,1.8,162699.0,No,❌ Gap
+14,pytorch,ML_AI,35,1.8,193829.0,No,❌ Gap
+55,elt,Data Engineering,34,1.8,133633.0,No,❌ Gap
+46,kafka,Data Engineering,33,1.7,151719.0,No,❌ Gap
+68,teamwork,Soft_Skills,32,1.7,142346.0,Yes,✅ You Have
+16,critical thinking,Soft_Skills,32,1.7,111717.0,No,❌ Gap
+43,synapse,Cloud,31,1.6,158533.0,No,❌ Gap
+90,classification,ML_AI,31,1.6,153354.0,No,❌ Gap
+56,git,Tools,29,1.5,192338.0,Yes,✅ You Have
+84,scrum,Soft_Skills,29,1.5,111870.0,No,❌ Gap
+79,s3,Cloud,28,1.5,126400.0,No,❌ Gap
+82,dbt,Data Engineering,28,1.5,151103.0,Yes,✅ You Have
+62,natural language processing,ML_AI,28,1.5,160791.0,No,❌ Gap
+108,jira,Tools,28,1.5,153661.0,No,❌ Gap
+91,regression,ML_AI,27,1.4,153678.0,No,❌ Gap
+77,postgresql,Databases,26,1.3,262000.0,No,❌ Gap
+60,bigquery,Cloud,25,1.3,116516.0,Yes,✅ You Have
+94,docker,Tools,25,1.3,161067.0,Yes,✅ You Have
+85,mongodb,Databases,25,1.3,214044.0,No,❌ Gap
+72,lambda,Cloud,24,1.2,133757.0,No,❌ Gap
+103,mysql,Databases,23,1.2,279475.0,No,❌ Gap
+58,terraform,Tools,23,1.2,134500.0,No,❌ Gap
+65,tensorflow,ML_AI,23,1.2,178633.0,No,❌ Gap
+63,qlik,Visualization,21,1.1,115426.0,No,❌ Gap
+88,kpi,BI_Analytics,19,1.0,128128.0,No,❌ Gap
+71,glue,Cloud,19,1.0,137300.0,No,❌ Gap
+119,clustering,ML_AI,18,0.9,117300.0,No,❌ Gap
+21,computer vision,ML_AI,16,0.8,143627.0,No,❌ Gap
+116,llm,ML_AI,16,0.8,277500.0,No,❌ Gap
+69,mlops,ML_AI,16,0.8,179000.0,No,❌ Gap
+51,data cleaning,Data_Analysis,16,0.8,119714.0,Yes,✅ You Have
+57,github,Tools,14,0.7,150000.0,Yes,✅ You Have
+76,looker,Visualization,14,0.7,59565.0,No,❌ Gap
+99,emr,Cloud,14,0.7,140860.0,No,❌ Gap
+74,dynamodb,Databases,14,0.7,260200.0,No,❌ Gap
+75,r programming,Programming,14,0.7,151490.0,No,❌ Gap
+115,scikit-learn,ML_AI,13,0.7,195000.0,Yes,✅ You Have
+31,exploratory data analysis,Data_Analysis,13,0.7,112629.0,Yes,✅ You Have
+47,neo4j,Databases,12,0.6,155792.0,No,❌ Gap
+92,feature engineering,ML_AI,11,0.6,215000.0,Yes,✅ You Have
+106,bash,Programming,11,0.6,118440.0,No,❌ Gap
+66,pandas,Data_Analysis,10,0.5,177500.0,Yes,✅ You Have
+104,amazon web services,Cloud,10,0.5,141125.0,No,❌ Gap
+67,numpy,Data_Analysis,10,0.5,190000.0,Yes,✅ You Have
+110,confluence,Tools,9,0.5,199199.0,No,❌ Gap
+96,neural network,ML_AI,9,0.5,,No,❌ Gap
+102,data wrangling,Data_Analysis,9,0.5,118319.0,No,❌ Gap
+64,matplotlib,Visualization,9,0.5,,No,❌ Gap
+107,cassandra,Databases,8,0.4,168400.0,No,❌ Gap
+80,google analytics,BI_Analytics,8,0.4,129488.0,No,❌ Gap
+114,seaborn,Visualization,8,0.4,140000.0,No,❌ Gap
+73,athena,Cloud,7,0.4,,No,❌ Gap
+109,stakeholder management,Soft_Skills,7,0.4,162500.0,No,❌ Gap
+111,a/b testing,Data_Analysis,7,0.4,179429.0,No,❌ Gap
+126,elasticsearch,Databases,7,0.4,137167.0,No,❌ Gap
+121,hypothesis testing,Data_Analysis,6,0.3,113325.0,No,❌ Gap
+117,typescript,Programming,6,0.3,150000.0,No,❌ Gap
+101,ansible,Tools,5,0.3,150145.0,No,❌ Gap
+113,cosmos db,Databases,5,0.3,176800.0,No,❌ Gap
+95,fivetran,Data Engineering,5,0.3,131250.0,No,❌ Gap
+122,random forest,ML_AI,4,0.2,,No,❌ Gap
+32,data storytelling,BI_Analytics,4,0.2,114938.0,No,❌ Gap
+97,slack,Tools,4,0.2,,No,❌ Gap
+118,redis,Databases,4,0.2,173750.0,No,❌ Gap
+100,plotly,Visualization,3,0.2,145000.0,No,❌ Gap
+53,apache airflow,Data Engineering,2,0.1,114400.0,No,❌ Gap
+128,matlab,Programming,2,0.1,,No,❌ Gap
+123,cloud run,Cloud,2,0.1,,No,❌ Gap
+89,xgboost,ML_AI,2,0.1,,No,❌ Gap
+98,mlflow,ML_AI,2,0.1,,Yes,✅ You Have
+112,grafana,Visualization,2,0.1,164050.0,No,❌ Gap
+130,cloud functions,Cloud,1,0.1,,No,❌ Gap
+125,c++,Programming,1,0.1,,No,❌ Gap
+131,dagster,Data Engineering,1,0.1,,No,❌ Gap
+105,mixpanel,BI_Analytics,1,0.1,152500.0,No,❌ Gap
+124,eda,Data_Analysis,1,0.1,,No,❌ Gap
+127,github actions,Tools,1,0.1,,Yes,✅ You Have
+120,sqlite,Databases,1,0.1,140400.0,No,❌ Gap
+86,notion,Tools,1,0.1,230000.0,No,❌ Gap
+129,amplitude,BI_Analytics,1,0.1,115000.0,No,❌ Gap
