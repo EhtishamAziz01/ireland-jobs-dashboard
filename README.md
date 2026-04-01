@@ -1,4 +1,4 @@
-# 🇮🇪 Ireland Jobs & Skills Market Dashboard
+# 📊 Data Jobs & Skills Market Dashboard
 
 End-to-end data analytics project analyzing **1,930 real LinkedIn job postings** to uncover trends in the data job market — skills demand, salary benchmarks, and career insights.
 
@@ -28,7 +28,7 @@ End-to-end data analytics project analyzing **1,930 real LinkedIn job postings**
 
 ```
 ├── src/
-│   ├── scraper/          # Indeed.ie scraper + Kaggle adapter
+│   ├── scraper/          # Indeed scraper + Kaggle adapter
 │   ├── cleaning/         # Dedup, standardize, skill extraction
 │   └── database/         # DuckDB schema + loader + PBI export
 ├── notebooks/
@@ -62,8 +62,8 @@ Power BI Dashboard
 
 ```bash
 # Clone and install
-git clone https://github.com/EhtishamAziz01/ireland-jobs-dashboard.git
-cd ireland-jobs-dashboard
+git clone https://github.com/EhtishamAziz01/data-jobs-dashboard.git
+cd data-jobs-dashboard
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 

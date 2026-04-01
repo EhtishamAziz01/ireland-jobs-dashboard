@@ -1,4 +1,4 @@
-# Data Job Market Analysis Report
+# Data Jobs Market — Analysis Report
 
 ## Executive Summary
 
