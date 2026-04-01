@@ -32,6 +32,10 @@ data/processed/*.json
 .DS_Store
 Thumbs.db
 
+# Guides (local only, not for GitHub)
+*_outline.md
+*_BUILD_GUIDE.md
+
 # IDE
 .vscode/
 .idea/
