@@ -13,6 +13,15 @@ End-to-end data analytics project analyzing **1,930 real LinkedIn job postings**
 | Avg Salary — Data Scientist | $160,068 |
 | Avg Salary — Data Analyst | $110,658 |
 
+## Data Source
+
+- **Dataset:** [LinkedIn Job Postings](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings) on Kaggle (3.3M postings)
+- **Scope:** Filtered to **2,000 data-related roles** (Data Analyst, Data Scientist, Data Engineer, ML Engineer, BI Analyst, etc.)
+- **Fields used:** Job title, company, location, full description, salary (min/max/period), work type
+- **Skill extraction:** 131 skills identified across 10 categories using keyword matching against a curated [dictionary](data/reference/skill_keywords.json) of technical and soft skills
+- **Salary data:** 28% of postings include salary — hourly/monthly rates are annualized automatically
+- **Supplementary dataset** (optional): [Jobs in Data](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data) — 9,355 structured salary records
+
 ## Tech Stack
 
 | Layer | Technology |
